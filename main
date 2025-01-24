@@ -1,0 +1,5 @@
+import CPU_Maxer
+
+CPU_Maxer(800)
+Overide($) 
+run(CPU_Maxer)(Overide)
